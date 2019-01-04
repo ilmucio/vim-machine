@@ -73,6 +73,7 @@ Very minimal linux distribution
 
 #### Packages to install 
 
+[ssh](https://en.wikipedia.org/wiki/Secure_Shell)
 
 ### Others
 
