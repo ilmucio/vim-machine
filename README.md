@@ -39,6 +39,10 @@ Keyboard with a vim friendly layout
 
 [Chromebook](https://en.wikipedia.org/wiki/Chromebook)
 
+[Thinkpad](https://en.wikipedia.org/wiki/ThinkPad)
+
+[Asus Eee](https://en.wikipedia.org/wiki/Asus_Eee_PC)
+
 ### Embedded devices
 
 [Raspberry zero](https://www.raspberrypi.org/products/raspberry-pi-zero/)
