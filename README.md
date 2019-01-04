@@ -74,7 +74,7 @@ Very minimal linux distribution
 #### Packages to install 
 
 
-# Others
+### Others
 
 [Freewrite](https://getfreewrite.com/)
 
