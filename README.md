@@ -21,21 +21,21 @@ Here I will try to gather the references they are giving, integrate with more an
 
 ### Display 
 
-![Dasengtech](http://www.dasungtech.com/)
+[Dasengtech](http://www.dasungtech.com/)
 Company that produce e-ink monitor
  
 
-![Onyx Demo](https://www.youtube.com/watch?v=D3ooHNrkKu8)
+[Onyx Demo](https://www.youtube.com/watch?v=D3ooHNrkKu8)
 Video that display capability of modern e-ink refresh rate
 
 ### Keyboard 
 
-![Happy Hacking Keyboard](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard)
+[Happy Hacking Keyboard](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard)
 Keyboard with a vim friendly layout 
 
 ### Os 
 
-![Linux Alpine](https://www.alpinelinux.org/)
+[Linux Alpine](https://www.alpinelinux.org/)
 Very minimal linux distribution 
 
 ### Packages to install 
@@ -43,17 +43,17 @@ Very minimal linux distribution
 
 # Article
 
-![Freewrite](https://getfreewrite.com/)
+[Freewrite](https://getfreewrite.com/)
 
-![Vim on slow refresh rate](https://www.theregister.co.uk/2003/09/11/bill_joys_greatest_gift/)
+[Vim on slow refresh rate](https://www.theregister.co.uk/2003/09/11/bill_joys_greatest_gift/)
 
-![Remarkable Demo](https://youtu.be/x-WGiYiHppg?t=163)
+[Remarkable Demo](https://youtu.be/x-WGiYiHppg?t=163)
 
-![Remarkable related project](https://github.com/reHackable/awesome-reMarkable)
+[Remarkable related project](https://github.com/reHackable/awesome-reMarkable)
 
-![Project Gomez](https://github.com/projectgomez/project-gomez)
+[Project Gomez](https://github.com/projectgomez/project-gomez)
 
-![OLPC Project](http://one.laptop.org/about/hardware)
+[OLPC Project](http://one.laptop.org/about/hardware)
 
 
 ### Notes
