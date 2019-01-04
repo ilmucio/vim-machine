@@ -36,8 +36,8 @@ Keyboard with a vim friendly layout
 ### Laptops/notebooks 
 
 [Vaio P](https://en.wikipedia.org/wiki/Sony_Vaio_P_series)
-[
-Chromebook](https://en.wikipedia.org/wiki/Chromebook)
+
+[Chromebook](https://en.wikipedia.org/wiki/Chromebook)
 
 ### Embedded devices
 
@@ -51,6 +51,8 @@ Chromebook](https://en.wikipedia.org/wiki/Chromebook)
 
 [Linux Alpine](https://www.alpinelinux.org/)
 Very minimal linux distribution 
+
+[Majaro i3](https://manjaro.github.io/homepage/public/download/i3/)
 
 ### Packages to install 
 
@@ -69,6 +71,7 @@ Very minimal linux distribution
 
 [OLPC Project](http://one.laptop.org/about/hardware)
 
+[Psion](https://en.wikipedia.org/wiki/Psion_Series_5)
 
 ### Notes
 
