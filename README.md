@@ -9,16 +9,16 @@ Here I will try to gather the references they are giving, integrate with more an
 
 ## Pro and Contra
 
-# E-ink display 
+### E-ink display 
 
 - Eyes comfort 
 - Battery consuption
 - Working on the sun light 
 - Discreet
 
-# Coustomized Os 
+### Coustomized Os 
 
-# Coustomized Keyboard
+### Coustomized Keyboard
 
 ## Links
 
