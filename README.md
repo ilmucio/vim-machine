@@ -41,11 +41,11 @@ Very minimal linux distribution
 ### Packages to install 
 
 
-# Article
+# Others
 
 [Freewrite](https://getfreewrite.com/)
 
-[Vim on slow refresh rate](https://www.theregister.co.uk/2003/09/11/bill_joys_greatest_gift/)
+[Article](https://www.theregister.co.uk/2003/09/11/bill_joys_greatest_gift/)
 
 [Remarkable Demo](https://youtu.be/x-WGiYiHppg?t=163)
 
