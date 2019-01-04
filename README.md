@@ -4,7 +4,8 @@ A repo to share idea on customize a machine for the use of vim.
 
 I posted on reddit about some of the things I'd love to have on a machine fully dedicated to vim.
 Some people give their opinions and preferences on that. 
-Here I will try to gather some of the references they gave integrate with other and make a syntesis.
+
+Here I will try to gather the references they are giving, integrate with more and make a syntesis.
 
 
 
