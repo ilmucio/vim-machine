@@ -7,19 +7,32 @@ Some people give their opinions and preferences on that.
 
 Here I will try to gather the references they are giving, integrate with more and make a syntesis.
 
+## Pro and Contra
 
+# E-ink display 
 
-## Reddit Discussions
+- Eyes comfort 
+- Battery consuption
+- Working on the sun light 
+- Discreet
+
+# Coustomized Os 
+
+# Coustomized Keyboard
+
+## Links
+
+### Reddit Discussions
 
 [On r/vim](https://www.reddit.com/r/vim/comments/ac557i/vim_machine/)
 
 [On r/linux](https://www.reddit.com/r/linux/comments/achvq1/vim_machine/)
 
 
-## Hardware 
+### Hardware 
 
 
-### Display 
+#### Display 
 
 [Dasengtech](http://www.dasungtech.com/)
 Company that produce e-ink monitor
@@ -28,12 +41,12 @@ Company that produce e-ink monitor
 [Onyx Demo](https://www.youtube.com/watch?v=D3ooHNrkKu8)
 Video that display capability of modern e-ink refresh rate
 
-### Keyboard 
+#### Keyboard 
 
 [Happy Hacking Keyboard](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard)
 Keyboard with a vim friendly layout 
 
-### Laptops/notebooks 
+#### Laptops/notebooks 
 
 [Vaio P](https://en.wikipedia.org/wiki/Sony_Vaio_P_series)
 
@@ -43,22 +56,22 @@ Keyboard with a vim friendly layout
 
 [Asus Eee](https://en.wikipedia.org/wiki/Asus_Eee_PC)
 
-### Embedded devices
+#### Embedded devices
 
 [Raspberry zero](https://www.raspberrypi.org/products/raspberry-pi-zero/)
 
 [Raspberry 3 b](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 
-## Software 
+### Software 
 
-### Os 
+#### Os 
 
 [Linux Alpine](https://www.alpinelinux.org/)
 Very minimal linux distribution 
 
 [Majaro i3](https://manjaro.github.io/homepage/public/download/i3/)
 
-### Packages to install 
+#### Packages to install 
 
 
 # Others
@@ -77,6 +90,6 @@ Very minimal linux distribution
 
 [Psion](https://en.wikipedia.org/wiki/Psion_Series_5)
 
-### Notes
+#### Notes
 
 PR are more then welcome!
