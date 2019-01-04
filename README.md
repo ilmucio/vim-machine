@@ -33,6 +33,18 @@ Video that display capability of modern e-ink refresh rate
 [Happy Hacking Keyboard](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard)
 Keyboard with a vim friendly layout 
 
+### Laptops/notebooks 
+
+[Vaio P](https://en.wikipedia.org/wiki/Sony_Vaio_P_series)
+[Chromebook](https://en.wikipedia.org/wiki/Chromebook)
+
+### Embedded devices
+
+[Raspberry zero](https://www.raspberrypi.org/products/raspberry-pi-zero/)
+[Raspberry 3 b](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+
+## Software 
+
 ### Os 
 
 [Linux Alpine](https://www.alpinelinux.org/)
