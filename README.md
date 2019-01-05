@@ -19,4 +19,5 @@ In [Links](https://github.com/ilmucio/vim-machine/blob/master/links.md) the refe
 
 ## Repo contribution
 
-Repo contribution in form of Pull request and/or Issues are very welcome.
+Repo contribution in form of Pull request and/or Issues are very welcome. For the issues I started to create a list of labels 
+so that can help to more eassly find the issue we can be interessed to discuss.
