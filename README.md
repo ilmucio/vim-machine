@@ -19,5 +19,5 @@ In [Links](https://github.com/ilmucio/vim-machine/blob/master/links.md) the refe
 
 ## Repo contribution
 
-Repo contribution in form of Pull request and/or Issues are very welcome. For the issues I started to create a list of labels 
-so that can help to more eassly find the issue we can be interessed to discuss.
+Repo contribution in form of Pull request and/or Issues are very welcome. Issure will be a very important part of this repos, so I suggest to look at them. I started to create a list of labels 
+so that can help to more easly find the one we can be interessed to discuss.
