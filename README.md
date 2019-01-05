@@ -11,14 +11,25 @@ Here I will try to gather the references they are giving, integrate with more an
 
 ### E-ink display 
 
-- Eyes comfort 
-- Battery consuption
-- Working on the sun light 
-- Discreet
+- Eyes comfort (+)
+- Battery consuption (+)
+- Working on the sun light (+) 
+- Discreet (+)
+- Slow refresh rate (-)
+- Cost (-)
 
-### Coustomized Os 
+### Coustomized Linux Distro 
+
+- Battery consumption (+)
+- Easy to use (+)
+- Distraction Free (+)
+- Too Restrictive (-)
 
 ### Coustomized Keyboard
+
+- Make button more easy to reach (+) 
+- Save space  (+)
+- You could find difficult then to swich to a normal keyboard (-)
 
 ## Links
 
