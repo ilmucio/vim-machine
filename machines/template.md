@@ -1,6 +1,7 @@
 # Version:1
 
-(since probably this wil change over time let's fix a version starting with one Version 1)
+(since probably this wil change over time let's fix a version starting with one Version 1
+Note: with version I mean the version of tempalte used not of the machine)
 
 
 # Metadata:
