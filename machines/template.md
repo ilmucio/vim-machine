@@ -28,6 +28,7 @@ price:(up100\*\*up200$\*\*\*up400$\*\*\*over600$)
 
 battery_life:(in hour)
 
+pkg_needed:(ssh/tmux/termux...)
 
 
 # Description:
