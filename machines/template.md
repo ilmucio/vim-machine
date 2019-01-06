@@ -6,7 +6,7 @@ Note: with version I mean the version of tempalte used not of the machine)
 
 # Metadata:
 
-(All field are optional)
+(All fields are optional)
 
 name:(A name to easy reference and talk about the machine)
 
