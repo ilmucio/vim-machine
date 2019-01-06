@@ -6,9 +6,11 @@ Note: with version I mean the version of tempalte used not of the machine)
 
 # Metadata:
 
-(All fields are optional)
+(All fields are optional name included)
 
 name:(A name to easy reference and talk about the machine)
+
+author: (the github name of reddit so that could be easy for people to refer and ask for more info)
 
 eink:(yes/no)
 
