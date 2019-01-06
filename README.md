@@ -15,7 +15,7 @@ for some of the more controversial choice pro and cons.
 
 In [Links](https://github.com/ilmucio/vim-machine/blob/master/links.md) the references of projects, productcs, articles, discussion etc.
 
-In [Machines](https://github.com/ilmucio/vim-machine/tree/master/machines) will go a file describe possible machines configuration.
+In [Machines](https://github.com/ilmucio/vim-machine/tree/master/machines) will go a files describing possible machines configuration.
 
 ...
 
