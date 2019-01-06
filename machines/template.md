@@ -1,7 +1,10 @@
-Version:1
+# Version:1
+
 (since probably this wil change over time let's fix a version starting with one Version 1)
 
-Metadata:
+
+# Metadata:
+
 (All field are optional)
 
 name:(A name to easy reference and talk about the machine)
@@ -26,6 +29,6 @@ battery_life:(in hour)
 
 
 
-Description:
+# Description:
 
 (Here are go any notes you want add to describe the machine that did not fit in the meta.)
