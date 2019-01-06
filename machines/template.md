@@ -5,14 +5,23 @@ Metadata:
 (All field are optional)
 
 name:(A name to easy reference and talk about the machine)
+
 eink:(yes/no)
+
 custom_keyboard:(yes/no)
+
 custom_os:(yes/no)
+
 custom_case:(yes/no)
+
 old_laptop:(yes/no)
+
 os:(debian/alpine/..)
+
 laptop_name:(if applicable)
-price:(*up100$**up200$***up400$***over600$)
+
+price:(up100\*\*up200$\*\*\*up400$\*\*\*over600$)
+
 battery_life:(in hour)
 
 
