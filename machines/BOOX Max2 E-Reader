@@ -1,0 +1,43 @@
+
+Name: BOOX Max2 E-Reader
+
+E-ink: Yes
+
+Keyboard: Can use Bluetooth Keyboard
+
+Current OS: Android
+
+Battery Life: When used as a secondary monitor, 3 maybe 4 hours. Recommending that you plug it in for extensive work.
+When used to code via the android app, that is currently unknown. Expected to be a few hours as well.
+When used as an e-reader and not for coding, a few weeks to a month.
+
+Price: ~$750 USD
+
+Specs: 1.6G Quad-core CPU, 13.3 dual touch HD display, 2GB of RAM, and 32GB of storage. Source: https://onyxboox.com/boox_max2
+There is a pro version as well that has 4GB of RAM. Both versions support SNOW Field, which is an operating mode of the screen, 
+allowing to reduce the number of artifacts on the screen within partial refresh. If this function is on, full refresh of the
+screen is not needed.
+
+Requires Modifications? No.
+
+
+Description:
+
+The Boox Max 2 E-Reader is an e-ink device that features a 1.6G Quad-core CPU, 13.3 dual touch HD display, 
+and can be turned into a portable monitor or a secondary monitor. It is Bluetooth keyboard compatible and 
+even has a monitor stand attachment. It currently runs android out of the box and supports Google Play. 
+Google play supports Termux, (a terminal emulator for android that uses its Linux roots) and finally Termux
+supports Vim. You would need to install ssh as well, so it would be "pkg install openssh".
+After that, you should be good to go. This however is untested on the device and hasn't been verified yet. 
+
+This may be more expensive than intended, but it should likely work out of the box without voiding the warranty of the e reader.
+Which might I add, can also be used for several other things other than vim if you so choose as it is an android device. 
+Such as reading if that wasn't obvious.
+
+This is a video of someone using it a monitor.
+
+https://www.youtube.com/watch?v=idjhuxzjD5Q
+
+This is it on Amazon currently:
+
+https://www.amazon.com/BOOX-Ereader-Android-Interface-Dual-Touch/dp/B077GVLMJN/ref=sr_1_10/145-0236692-0695545?ie=UTF8&qid=1546719568&sr=8-10&keywords=e+ink+computer+monitor
