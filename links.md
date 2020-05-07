@@ -4,6 +4,7 @@
 
 [On r/linux](https://www.reddit.com/r/linux/comments/achvq1/vim_machine/)
 
+[On r/eink](https://www.reddit.com/r/eink/comments/gf3sbe/who_wants_a_eink_word_processor/)
 
 ## Hardware 
 
